@@ -26,7 +26,7 @@
 ###个人能力
 ###`前端`
  
-  * 精通javascript、 html、 css、
+  * 精通javascript、 html、 css
   * 能调兼容、还原UI设计稿
   * 熟练使用通用前端框架（jquery、Bootstrap、React.js）
   * 熟练使用webpack，npm，git
