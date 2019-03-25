@@ -29,7 +29,6 @@
        商品开发（首页，列表分类页，商品详情页）
        技术站为vue
   
-  线上链接：http://5rs.me
 
 >  says期刊系统
   
@@ -40,7 +39,6 @@
        says系统开发，主要开发者;
        web（react），html5（react），小程序(mpvue)
 
-  线上链接：http://5rs.me
 
 >  says系统
   
@@ -50,17 +48,20 @@
 
         says系统，主要负责PC端编辑端开发
 
-  线上链接：http://5rs.me
           
      
 ---
 ### 能力
 #### 前端
 
-* 精通javascript、 html、 css
-* 还原UI设计稿
-* 熟练使用通用前端框架（vue、React.js、mpvue）
-* 熟练使用webpack+react搭建脚手架
+* 熟悉使用react+react-router+redux+webpack，有大型单页面开发经验；
+* 具vue的开发能力
+* 具微信小程序开发经验，mvue框架开发小程序，产品上线
+* 具前端多人合作开发经验（前端30人合作开发经验）；
+* 独立解决问题，保证进度；
+* 独立组件开发，框架搭建；
+* 良好的沟通协调能力，表达能力；
+* 当前在杭州
 
    
 ---
